@@ -1,3 +1,19 @@
 body {
     color: #eb2764;
 }
+
+.tareita {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.tareita h1 {
+    font-size: 16px;
+    padding-inline-end: 10px;
+}
+
+.tareita-tachada {
+    text-decoration: line-through;
+    color: gray;
+}
